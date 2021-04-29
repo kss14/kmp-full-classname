@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "@kss14/kmp-full-classname@1.0.0",
+      "/home/kss14/WORKSPACE/KMP_Framework"
+    ]
+  ],
+  "_from": "@kss14/kmp-full-classname@1.0.0",
+  "_id": "@kss14/kmp-full-classname@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-LJNKzahaskgIsXETqHeuhNCB+QtLfj0PzWpNXC8oaqykdTWlnGXBO/YGkogqPJ6YpVr/S7S077jM7LH8ynkZ6w==",
+  "_location": "/@kss14/kmp-full-classname",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@kss14/kmp-full-classname@1.0.0",
+    "name": "@kss14/kmp-full-classname",
+    "escapedName": "@kss14%2fkmp-full-classname",
+    "scope": "@kss14",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@kss14/kmp-full-classname/-/kmp-full-classname-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "/home/kss14/WORKSPACE/KMP_Framework",
+  "author": {
+    "name": "kss14"
+  },
+  "bugs": {
+    "url": "https://github.com/kss14/kmp-full-classname/issues"
+  },
+  "description": "Get full classname",
+  "homepage": "https://github.com/kss14/kmp-full-classname#readme",
+  "keywords": [
+    "classname"
+  ],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "name": "@kss14/kmp-full-classname",
+  "types": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kss14/kmp-full-classname.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
