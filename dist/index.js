@@ -75,7 +75,7 @@ var KmpTools;
             if (processResult.fnFound) {
                 fullFnName = processResult.path.join(".");
             }
-            if (fullFnName.split(/^process\.mainModule\..*\.exports\./).length <= 2) {
+            if (fullFnName.split(/^process\.mainModule\..*\.exports\./).length === 2) {
                 return fullFnName.split(".exports.")[1];
             }
             throw new Error('You cannot use "exports" as a class or namespace name.');
