@@ -102,7 +102,7 @@ export namespace KmpTools {
                 fullFnName = processResult.path.join(".");
             }
 
-            if(fullFnName.split(/^process\.mainModule\..*\.exports\./).length == 2){
+            if(fullFnName.split(/^process\.mainModule\..*\.exports\./).length === 2){
                 return fullFnName.split(".exports.")[1];
             }
 
