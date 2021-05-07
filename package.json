@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "@kss14/kmp-full-classname@1.0.1",
+      "@kss14/kmp-full-classname@1.0.2",
       "/home/kss14/WORKSPACE/KMP_Framework"
     ]
   ],
-  "_from": "@kss14/kmp-full-classname@1.0.1",
-  "_id": "@kss14/kmp-full-classname@1.0.1",
+  "_from": "@kss14/kmp-full-classname@1.0.2",
+  "_id": "@kss14/kmp-full-classname@1.0.2",
   "_inBundle": false,
   "_integrity": "sha512-LJNKzahaskgIsXETqHeuhNCB+QtLfj0PzWpNXC8oaqykdTWlnGXBO/YGkogqPJ6YpVr/S7S077jM7LH8ynkZ6w==",
   "_location": "/@kss14/kmp-full-classname",
@@ -14,19 +14,19 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@kss14/kmp-full-classname@1.0.1",
+    "raw": "@kss14/kmp-full-classname@1.0.2",
     "name": "@kss14/kmp-full-classname",
     "escapedName": "@kss14%2fkmp-full-classname",
     "scope": "@kss14",
-    "rawSpec": "1.0.1",
+    "rawSpec": "1.0.2",
     "saveSpec": null,
-    "fetchSpec": "1.0.1"
+    "fetchSpec": "1.0.2"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@kss14/kmp-full-classname/-/kmp-full-classname-1.0.1.tgz",
-  "_spec": "1.0.1",
+  "_resolved": "https://registry.npmjs.org/@kss14/kmp-full-classname/-/kmp-full-classname-1.0.2.tgz",
+  "_spec": "1.0.2",
   "_where": "/home/kss14/WORKSPACE/KMP_Framework",
   "author": {
     "name": "kss14"
@@ -50,5 +50,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
